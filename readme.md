@@ -37,7 +37,6 @@
 
 ---
 
-📌 **Submission Deadline:** [Insert Date]  
-📩 Submit your completed **answer.md** file as per the given instructions.  
+
 
 Happy Learning! 🚀  
