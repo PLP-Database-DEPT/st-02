@@ -1,18 +1,18 @@
-# 📝 Assignment: Fundamentals of Software Testing  
+# 📝 Assignment 2: Types of Software Testing  
 
 ## 🎯 Learning Objectives  
-- Understand the importance of software testing in software development.  
-- Differentiate between key testing concepts such as errors, defects, and failures.  
-- Learn software testing principles, including the "Pesticide Paradox."  
-- Explore different types of testing methodologies: static vs. dynamic testing.  
-- Recognize the impact of early testing in the Software Development Lifecycle (SDLC).  
+- Understand different types of software testing and their significance.  
+- Differentiate between functional and non-functional testing.  
+- Learn the key differences between unit testing and integration testing.  
+- Explore system and acceptance testing and their role in software quality.  
+- Identify common types of non-functional testing and their importance.  
 
 ---
 
 ## 📋 What You'll Need  
 💻 A computer with internet access.  
 📝 A text editor (e.g., Visual Studio Code, Sublime Text).  
-📚 Basic knowledge of software development concepts.  
+📚 Basic knowledge of software testing concepts.  
 
 ---
 
@@ -25,18 +25,16 @@
 
 ## 📚 Assignment Questions  
 
-### 1. Define software testing and explain why it is important in software development.  
+### 1. What is functional testing, and why is it important in software development?  
 
-### 2. Differentiate between error, defect, and failure with an example for each.  
+### 2. Differentiate between unit testing and integration testing. Provide one example for each.  
 
-### 3. Explain the "Pesticide Paradox" principle in software testing and why it is important to update test cases regularly.  
+### 3. Explain the purpose of system testing and acceptance testing. How do they contribute to software quality?  
 
-### 4. Describe the difference between static and dynamic testing and provide an example of each.  
+### 4. What is non-functional testing, and how does it differ from functional testing?  
 
-### 5. How does early testing in the software development lifecycle (SDLC) help reduce costs and improve software quality?  
+### 5. Give two examples of non-functional testing and explain why they are important.  
 
 ---
-
-
 
 Happy Learning! 🚀  
